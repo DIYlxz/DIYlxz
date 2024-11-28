@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIYlxz)<div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIYlxz&layout=compact)]</div>(https://github.com/anuraghazra/github-readme-stats)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIYlxz)<a style="margin-left: 20px">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIYlxz&layout=compact)</a>(https://github.com/anuraghazra/github-readme-stats)  
 <!--
 **DIYlxz/DIYlxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
